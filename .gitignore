@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Optional debugging files
+.nyc_output/
+coverage/
+.vscode/
+.idea/
+
+# macOS directory attributes
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Yarn
+yarn-error.log
+
+# Jest coverage
+coverage/
+
+# dotenv environment variables file
+.env
+
+# PostgreSQL
+*.sql
